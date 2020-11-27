@@ -1,0 +1,11 @@
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\bin\Debug\netcoreapp2.2\csroguetut.deps.json
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\bin\Debug\netcoreapp2.2\csroguetut.runtimeconfig.json
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\bin\Debug\netcoreapp2.2\csroguetut.runtimeconfig.dev.json
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\bin\Debug\netcoreapp2.2\csroguetut.dll
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\bin\Debug\netcoreapp2.2\csroguetut.pdb
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\obj\Debug\netcoreapp2.2\csroguetut.csprojAssemblyReference.cache
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\obj\Debug\netcoreapp2.2\csroguetut.csproj.CoreCompileInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\obj\Debug\netcoreapp2.2\csroguetut.AssemblyInfoInputs.cache
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\obj\Debug\netcoreapp2.2\csroguetut.AssemblyInfo.cs
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\obj\Debug\netcoreapp2.2\csroguetut.dll
+C:\Users\Jordf\onedrive\documents\coding\csroguetut\obj\Debug\netcoreapp2.2\csroguetut.pdb
