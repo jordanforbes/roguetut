@@ -60,6 +60,8 @@ namespace csroguetut
                 }
                 Console.SetCursorPosition(0,29);
                 Console.Write("HEALTH: {0}/{1}", Char_Health_Current, Char_Health_Full);
+                Console.SetCursorPosition(20,29);
+                Console.Write("Score: {0}", score);
                 Console.ReadLine();
             }while(Gameover == 0);
         }
